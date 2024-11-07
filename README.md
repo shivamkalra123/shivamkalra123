@@ -26,7 +26,7 @@
   
 ### 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhyatiDhawan22&show_icons=true&theme=dracula)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkalra123&show_icons=true&theme=dracula)
 
 ### 📫 Let's Connect!
 - **LinkedIn**: ((https://www.linkedin.com/in/shivam-kalra121/))
