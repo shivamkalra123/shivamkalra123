@@ -22,7 +22,7 @@
 ### 🌐 Current Projects
 - **Dog Music Website**: Creating a lightweight website to sell music for dogs, considering plugins and e-commerce options.
 - **Au Pair Website**: Transitioning a bilingual website to a .de domain with SEO optimizations for Germany.
-- **React Counter App**: Building a counter with timed redirect functionality.
+
   
 ### 📈 GitHub Stats
 
